@@ -1,0 +1,4 @@
+name: McdoPlugins
+version: '${project.version}'
+main: dev.kbejj.mcdoplugin.McdoPlugin
+api-version: '1.20'
