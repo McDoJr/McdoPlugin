@@ -1,0 +1,32 @@
+
+###########################################################
+#                         BUTTONS                         #
+###########################################################
+
+next:
+  material: 'player_head'
+  skin: 'https://textures.minecraft.net/texture/141ff6bc67a481232d2e669e43c4f087f9d2306665b4f829fb86892d13b70ca'
+  displayname: '&eNext'
+  lore:
+    - 'Go to next page'
+
+previous:
+  material: 'player_head'
+  skin: 'https://textures.minecraft.net/texture/49b2bee39b6ef47e182d6f1dca9dea842fcd68bda9bacc6a6d66a8dcdf3ec'
+  displayname: '&ePrevious'
+  lore:
+    - '&7Go to previous page'
+
+back:
+  material: 'player_head'
+  skin: 'https://textures.minecraft.net/texture/6b29eceef3ddb14f906dbd4fa41d63f3d7d4537871cee4315c59e76ebc5f85'
+  displayname: '&eBack'
+  lore:
+    - '&7Go to previous menu'
+
+close:
+  material: 'player_head'
+  skin: 'https://textures.minecraft.net/texture/beb588b21a6f98ad1ff4e085c552dcb050efc9cab427f46048f18fc803475f7'
+  displayname: '&cClose'
+  lore:
+    - '&7Click to exit'

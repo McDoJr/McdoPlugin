@@ -1,0 +1,8 @@
+
+permission:
+  failed: "&cYou have no permission to use this command"
+
+subcommand:
+  invalid: "&cInvalid subcommand"
+  args: "&cInvalid Arguments"
+  player: "&cCommand is accessible for players only"
