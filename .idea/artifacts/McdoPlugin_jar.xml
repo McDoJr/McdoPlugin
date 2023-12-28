@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="McdoPlugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/McdoPlugin_jar</output-path>
+    <root id="archive" name="McdoPlugin.jar">
+      <element id="module-output" name="McdoPlugin" />
+    </root>
+  </artifact>
+</component>
